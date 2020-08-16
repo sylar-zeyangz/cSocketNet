@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Sylar\Desktop\Git\cSocketNet\main.cpp(53,4): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  cSocketNet.vcxproj -> C:\Users\Sylar\Desktop\Git\cSocketNet\x64\Debug\cSocketNet.exe

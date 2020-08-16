@@ -1,0 +1,2 @@
+C:\Users\Sylar\Desktop\Git\cSocketNet\x64\Debug\cSocketNet.exe
+C:\Users\Sylar\Desktop\Git\cSocketNet\x64\Debug\cSocketNet.pdb
